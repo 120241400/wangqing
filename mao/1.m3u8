@@ -1,14 +1,8 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
-    {
-      "name": "直播",
-      "type": 1,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-      "logo": "http://epg.51zmt.top:8000/{logo}"
-    }
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg4My9QWS8xMTA4LnR4dA=="]}]}
   ],
+  
   "sites": [
 
 {
