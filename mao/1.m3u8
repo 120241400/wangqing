@@ -252,7 +252,7 @@
     },
     {
       "key": "十一",
-      "name": "🎥快播资源",
+      "name": "📽️快播资源",
       "type": 1,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/",
       "searchable": 1,
