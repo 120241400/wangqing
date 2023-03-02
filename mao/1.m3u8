@@ -328,7 +328,7 @@
       "key": "十四",
       "name": "🦅金鹰资源",
       "type": 1,
-      "api": "http://jinyingzy.com/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
