@@ -9,7 +9,7 @@
       "key": "一",
       "name": "🏄新浪资源",
       "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod?",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
