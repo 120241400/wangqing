@@ -10,7 +10,7 @@
     },
     {
       "name": "归路",
-      "pic": "../tupian/2.png",
+      "pic": "https://wangqing.vip/mao/tupian/2.png",
       "url": "",
       "type": "search",     
        "desc": "",
@@ -18,7 +18,7 @@
     },
       {
       "name": "婚事",
-      "pic": "./tupian/3.png",
+      "pic": "https://wangqing.vip/mao/tupian/3.png",
       "url": "",
       "type": "search",     
        "desc": "",
