@@ -20,7 +20,7 @@
 {"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/骚火电影.js"},
 {"key":"drpy_js_布雷蓝光","name":"影视 | 布雷蓝光[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"},
 {"key":"drpy_js_完美看看","name":"影视 | 完美看看[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
-
+{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
 
 {"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"}
