@@ -1,6 +1,5 @@
 {
     "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./custom_spider.jar;md5;d4797079e78d6d97ec1a6efa44e194ab",
     "lives": [
         {
           "name": "直播",
@@ -14,6 +13,107 @@
         },
 ],
     "sites": [
-{"key":"兔小贝","name":"📚儿童┃启蒙","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://饭太硬.ga/x/json/少儿教育.json","searchable": 0,"quickSearch": 0,"filterable": 0}, 
+        {
+      "key": "酷云77",
+      "name": "☁️酷云七七",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
+        },
+         {
+      "key": "骚火",
+      "name": "🔥骚火影视",
+      "type": 3,
+      "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/骚火.js"
+        },  
+        {
+       "key":"🍐LIBVIO",
+       "name":"LIBVIO",
+       "type":3,
+       "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+       "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
+        }, 
+      {
+       "key":"乐猪TV",
+       "name":"🐷乐猪影视",
+       "type":3,
+       "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+       "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
+       },
+     {
+     "key":"酷客影院",
+     "name":"😎酷客影院",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷客影院.js"
+     }, 
+    {
+     "key":"布雷蓝光",
+     "name":"⚡布雷蓝光",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"
+     },
+   {
+     "key":"鸭奈飞",
+     "name":"🦆鸭奈飞网",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"
+     },
+   {
+     "key":"双十电影",
+     "name":"➕双十电影",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"
+     },
+   {
+     "key":"起飞影院",
+     "name":"🛫起飞影院",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/起飞影院.js"
+     },
+   {
+     "key":"麦豆",
+     "name":"🌾麦豆影视",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"
+     },
+   {
+     "key":"人人影视",
+     "name":"👰人人影视",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/人人影视.js"
+     },
+   {
+     "key":"真不卡儿",
+     "name":"🏓真不卡网",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"
+     },
+     {
+      "key": "188看",
+      "name": "️🦌一八八网",
+     "type": 3,
+     "api": "http://101.34.67.237/libs/drpy.min.js",
+     "searchable": 2,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "http://101.34.67.237/js/188看.js"
+        },
+   {
+     "key":"两个BT",
+     "name":"🍀两个BT",
+     "type":3,
+     "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+     "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/两个BT.js"
+     }
+]
+}
          
