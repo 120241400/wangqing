@@ -8,7 +8,7 @@
       "key": "零",
       "name": "🎯非凡资源",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
       "playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
       "searchable": 1,
       "quickSearch": 1,
