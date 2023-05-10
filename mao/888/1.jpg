@@ -278,9 +278,9 @@
     },
     {
       "key": "十一",
-      "name": "🎭酷点资源",
+      "name": "🎭超酷资源",
       "type": 1,
-      "api": "https://kudianzy.com/api.php/provide/vod/from/kdm3u8",
+      "api": "https://www.5020.work/json/?url=https://ckzy.me/api.php/provide/vod/from/ckm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
