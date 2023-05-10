@@ -280,7 +280,7 @@
       "key": "十一",
       "name": "🎭大漠资源",
       "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/from/damom3u8",
+      "api": "https://damozy.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
