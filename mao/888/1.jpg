@@ -31,9 +31,9 @@
     },  
 {
       "key": "一",
-      "name": "😺速看资源",
+      "name": "😺淘片资源",
       "type": 1,
-      "api": "https://ziyuan.skm3u8.com/api.php/sea/provide/vod/",
+      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml/m3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
