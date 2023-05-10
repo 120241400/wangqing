@@ -31,14 +31,14 @@
     },  
 {
       "key": "一",
-      "name": "🚴‍♀️速播资源",
+      "name": "🚴速播资源",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
       "categories": [
-        "内地剧",
+        "大陆剧",
         "中国动漫",
         "综艺",
         "科幻片",
