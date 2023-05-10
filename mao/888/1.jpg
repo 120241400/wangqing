@@ -31,9 +31,9 @@
     },  
 {
       "key": "一",
-      "name": "😺淘片资源",
+      "name": "🚴‍♀️速播资源",
       "type": 1,
-      "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml/m3u8",
+      "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
