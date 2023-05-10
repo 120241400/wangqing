@@ -33,7 +33,7 @@
       "key": "一",
       "name": "😺速看资源",
       "type": 1,
-      "api": "https://ziyuan.skm3u8.com/api.php/sea/provide/vod/from/skm3u8",
+      "api": "https://ziyuan.skm3u8.com/api.php/sea/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
