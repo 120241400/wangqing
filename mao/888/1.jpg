@@ -1,9 +1,15 @@
-	{
+{
   "wallpaper": "http://maoyingshi.cc/api.php",
   "warningText":"欢迎使用 白象影视",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://agit.ai/so/gao/raw/branch/master/list.txt"]}]}
-  ],
-  
+"lives": [
+    {
+      "name": "TXT",
+      "type": 0,
+      "url": "https://agit.ai/so/gao/raw/branch/master/list.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    ], 
   "sites": [
  {
       "key": "零",
