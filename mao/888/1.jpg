@@ -1,7 +1,7 @@
 	{
   "wallpaper": "http://maoyingshi.cc/api.php",
   "warningText":"欢迎使用 白象影视",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg4My9QWS8xMTA4LnR4dA=="]}]}
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["https://agit.ai/so/gao/raw/branch/master/list.txt"]}]}
   ],
   
   "sites": [
