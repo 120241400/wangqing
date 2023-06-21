@@ -8,6 +8,14 @@
       "desc": "",
       "show": true
     },
+   {
+      "name": "新手教程",
+      "pic": "https://i0.wp.com/wangqing.vip/mao/tupian/xinshou.jpg",
+      "url": "https://wangqing.vip/mao/taobao",
+      "type": "web",     
+      "desc": "",
+      "show": true
+    },
     {
       "name": "照亮你",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2892718676.webp",
