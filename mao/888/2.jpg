@@ -42,10 +42,15 @@
        "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"
         }, 
       {
-       "key":"乐猪TV",
-       "name":"🐷乐猪影视",
-       "type":3,
-       "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+            "key": "drpy_js_乐猪TV",
+            "name": "DRPY┃乐猪影视",
+            "type": 3,
+            "api": "http://api.iqinu.com/app/js/lib/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://api.iqinu.com/app/js/乐猪TV.js"
+        },
        "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"
        },
      {
