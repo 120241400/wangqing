@@ -61,7 +61,14 @@
      "type":3,
      "api":"https://xhdwc.tk/lib/drpy2.min.js",
      "ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/蘑菇.js"
-     },
+     },   
+{
+      "key": "js_ikanbot2",
+      "name": "🤖爱看机器",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ikanbot2.js"
+    },
    {
      "key":"双十电影",
      "name":"➕双十电影",
