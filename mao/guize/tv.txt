@@ -1,7 +1,7 @@
 [
-{"name":"MV","url":"http://我不是.肥猫.love:63/lives/mv.txt&&&http://wangqing1.phpnet.us/suijitu/wap"},
-{"name":"菜菜","url":"https://ghproxy.com/https://raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&http://wangqing1.phpnet.us/suijitu/wap?1"},
-{"name":"肥猫","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&http://wangqing1.phpnet.us/suijitu/wap?2"},
+{"name":"MV","url":"http://我不是.肥猫.love:63/lives/mv.txt&&&https://api.123home.page/m.php?category=bing"},
+{"name":"菜菜","url":"https://ghproxy.com/https://raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&https://api.123home.page/m.php?category=bing"},
+{"name":"肥猫","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://api.123home.page/m.php?category=bing"},
 {"name":"范明","url":"https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/300"},
 {"name":"学堂","url":"https://dxawi.github.io/0/tvlive.txt&&&https://picsum.photos/200/300"},
 {"name":"章鸿","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/300"}
