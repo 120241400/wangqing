@@ -188,9 +188,9 @@
     },
     {
       "key": "七",
-      "name": "🦊FOX资源",
+      "name": "🦊爱坤资源",
       "type": 1,
-      "api": "https://api.foxzyapi.com/api.php/provide/vod/from/foxm3u8",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/form/ikm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
