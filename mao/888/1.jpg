@@ -557,9 +557,9 @@
     },
     {
       "key": "二十二",
-      "name": "🌪️暴风资源",
+      "name": "🌪️秒看资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8",
+      "api": "https://mkzy.com/api.php/provide/vod/from/mkm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
