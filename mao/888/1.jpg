@@ -559,7 +559,7 @@
       "key": "二十二",
       "name": "🌪️秒看资源",
       "type": 1,
-      "api": "https://mkzy.com/api.php/provide/vod/from/mkm3u8",
+      "api": "https://mkzy.vip/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
