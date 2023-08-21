@@ -111,6 +111,19 @@
      "api": "https://xhdwc.tk/lib/drpy2.min.js",
      "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/速看100[V2].js"
         },
+{
+            "key": "河马",
+            "name": "🐴河马|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://m.hmys.tv/show/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3"
+            }
+        },
    {
      "key":"两个BT",
      "name":"🍀两个BT",
