@@ -557,12 +557,11 @@
     },
     {
       "key": "二十二",
-      "name": "🌪️秒看资源",
+      "name": "⏱️秒看资源",
       "type": 1,
       "api": "https://mkzy.vip/api.php/provide/vod",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
+      "quickSearch": 1,
       "categories": [
         "国产剧",
         "国产动漫",
