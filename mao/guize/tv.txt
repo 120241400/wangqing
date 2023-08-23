@@ -5,5 +5,6 @@
 {"name":"范明","url":"https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/300"},
 {"name":"学堂","url":"https://dxawi.github.io/0/tvlive.txt&&&https://picsum.photos/200/300"},
 {"name":"小伙","url":"https://xhdwc.tk/tvlive.txt&&&https://picsum.photos/200/300"},
+{"name":"港台","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://picsum.photos/200/300"},
 {"name":"章鸿","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/300"}
 ]
