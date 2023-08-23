@@ -556,6 +556,20 @@
       ]
     },
     {
+      "key": "秒看资源",
+      "name": "秒看┃切片",
+      "type": 1,
+      "api": "https://mkzy.vip/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "综艺",
+        "电视剧",
+        "电影",
+        "动漫"
+      ]
+    },
+    {
       "key": "二十二",
       "name": "⏱️秒看资源",
       "type": 1,
