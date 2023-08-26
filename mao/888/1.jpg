@@ -309,9 +309,9 @@
     },
     {
       "key": "十二",
-      "name": "📽️快播资源",
+      "name": "📽️可可资源",
       "type": 1,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8",
+      "api": "https://caiji.kekezyapi.com/api.php/provide/vod/from/kkm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
