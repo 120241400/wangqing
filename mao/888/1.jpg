@@ -285,7 +285,7 @@
     },
     {
       "key": "十一",
-      "name": "🎭大漠资源",
+      "name": "🌵大漠资源",
       "type": 1,
       "api": "https://damozy.com/api.php/provide/vod/from/m3u8",
       "searchable": 1,
