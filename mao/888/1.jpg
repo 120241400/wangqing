@@ -261,9 +261,9 @@
     },
     {
       "key": "十",
-      "name": "🌸樱花资源",
+      "name": "🌪️暴风资源",
       "type": 1,
-      "api": "https://www.yhzy.cc/api.php/provide/vod/",
+      "api": "http://app.bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
