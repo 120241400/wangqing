@@ -237,9 +237,9 @@
     },
     {
       "key": "九",
-      "name": "🐠鱼乐资源",
+      "name": "🦷虎牙资源",
       "type": 1,
-      "api": "https://api.yulecj.com/api.php/provide/vod/from/lem3u8",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
