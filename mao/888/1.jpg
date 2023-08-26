@@ -309,9 +309,9 @@
     },
     {
       "key": "十二",
-      "name": "📽️看看资源",
+      "name": "📽️四二资源",
       "type": 1,
-      "api": "https://zy.hikan.xyz/api.php/provide/vod",
+      "api": "https://www.42.la/api.php/provide/vod",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
