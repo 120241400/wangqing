@@ -188,9 +188,9 @@
     },
     {
       "key": "七",
-      "name": "🦊爱坤资源",
+      "name": "🦊火狐资源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/form/ikm3u8",
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
@@ -309,9 +309,9 @@
     },
     {
       "key": "十二",
-      "name": "📽️四二资源",
+      "name": "🐔爱坤资源",
       "type": 1,
-      "api": "https://www.42.la/api.php/provide/vod",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/form/ikm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
