@@ -309,9 +309,9 @@
     },
     {
       "key": "十二",
-      "name": "📽️可可资源",
+      "name": "📽️看看资源",
       "type": 1,
-      "api": "https://caiji.kekezyapi.com/api.php/provide/vod/from/kekem3u8",
+      "api": "https://zy.hikan.xyz/api.php/provide/vod",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
