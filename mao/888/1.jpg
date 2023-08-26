@@ -263,7 +263,7 @@
       "key": "十",
       "name": "🌸樱花资源",
       "type": 1,
-      "api": "https://yhzy.cc/api.php/provide/vod/from/yhm3u8",
+      "api": "https://www.yhzy.cc/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
