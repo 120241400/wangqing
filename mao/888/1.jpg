@@ -141,7 +141,7 @@
       "key": "五",
       "name": "🎯非凡资源",
       "type": 1,
-      "api": "http://ffzy1.tv/api.php/provide/vod/from/ffm3u8?http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "api": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8?http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
       "playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
       "searchable": 1,
       "quickSearch": 1,
