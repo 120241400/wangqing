@@ -533,9 +533,9 @@
     }, 
     {
       "key": "二十一",
-      "name": "🐾百度资源",
+      "name": "⛅快云资源",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
