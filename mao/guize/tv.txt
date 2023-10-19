@@ -7,7 +7,7 @@
 {"name":"学堂","url":"https://dxawi.github.io/0/tvlive.txt&&&https://picsum.photos/200/305"},
 {"name":"小米","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://picsum.photos/200/306"},
 {"name":"小胡","url":"https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt&&&https://picsum.photos/200/306"},
-{"name":"港台","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://picsum.photos/200/307"},
+{"name":"香雅","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://picsum.photos/200/307"},
 {"name":"微喜","url":"https://weixine.net/tv/ysclive.txt&&&https://picsum.photos/200/308"},
 {"name":"章鸿","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/309"}
 ]
