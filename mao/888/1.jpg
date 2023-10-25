@@ -852,7 +852,7 @@
       "key": "直播转点播",
       "name": "📺电视直播",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/zbzdb.js?http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/120241400/wangqing/main/mao/guize/tv.txt"
     },
     {
