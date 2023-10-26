@@ -770,14 +770,14 @@
     },
 {
       "key": "三十一",
-      "name": "🧸可可资源",
+      "name": "🌸樱花资源",
       "type": 1,
-      "api": "https://caiji.kekezyapi.com/api.php/provide/vod/from/kekem3u8?https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
+      "api": "https://www.yhzy.cc/api.php/provide/vod/from/yhm3u8?https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
       "categories": [
-        "大陆剧",
+        "国产剧",
         "国产动漫",
         "大陆综艺",
         "科幻片",
