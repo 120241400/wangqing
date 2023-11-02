@@ -1,5 +1,5 @@
 [
-{"name":"范明","url":"https://ghps.cc/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/299"},
+{"name":"范明","url":"https://ghps.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/299"},
 {"name":"MV","url":"http://我不是.肥猫.love:63/lives/mv.txt&&&https://picsum.photos/200/300"},
 {"name":"菜菜","url":"https://ghps.cc/https://raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&https://picsum.photos/200/301"},
 {"name":"月光","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&https://picsum.photos/200/302"},
