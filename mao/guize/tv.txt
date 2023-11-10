@@ -10,5 +10,5 @@
 {"name":"道长","url":"http://111.67.196.181/zhibo.txt&&&https://picsum.photos/200/307"},
 {"name":"小胡","url":"https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt&&&https://picsum.photos/200/308"},
 {"name":"微喜","url":"https://weixine.net/tv/ysclive.txt&&&https://picsum.photos/200/309"},
-{"name":"章鸿","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/310"}
+{"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/310"}
 ]
