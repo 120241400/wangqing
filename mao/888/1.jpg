@@ -264,6 +264,7 @@
       "name": "🌪️暴风资源",
       "type": 1,
       "api": "http://app.bfzyapi.com/api.php/provide/vod/",
+"playUrl": "json:https://wuzei.serv00.net/jx/tofflz.php?url=",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
