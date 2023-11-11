@@ -97,30 +97,6 @@
       "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|fhd|auto"
     },
     {
-      "key": "Gitcafe",
-      "name": "📀纸条4K",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
-    },
-    {
-      "key": "csp_Zhaozy5",
-      "name": "📀找搜4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$yannanfei$$$abcdefg"
-    },
-    {
       "key": "csp_AliPS",
       "name": "📀喵搜4K",
       "type": 3,
