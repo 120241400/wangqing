@@ -1,136 +1,166 @@
 {
-    "wallpaper": "https://www.dmoe.cc/random.php",
-    "lives": [
-        {
-          "name": "直播",
-          "type": 0,
-          "playerType": 1,
-          "url": "http://miaotvs.cn/meowzb",
-          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-         
-          "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
-         
-        },
-],
-    "sites": [
-        {
-      "key": "酷云77",
-      "name": "☁️酷云七七",
-      "type": 3,
-      "api": "https://xhdwc.tk/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/酷云77.js"
-        },
-         {
-      "key": "骚火",
-      "name": "🔥骚火影视",
-      "type": 3,
-      "api": "https://xhdwc.tk/lib/drpy2.min.js",
-      "ext": "https://xhdwc.tk/js/骚火电影.js"
-        }, 
-        {
-      "key": "LIBVIO",
-      "name": "LIBVIO",
-      "type": 3,
-      "api": "https://xhdwc.tk/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/LIBVIO.js"
-        },  
-     {
-     "key":"乐猪TV",
-     "name":"乐猪TV",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/乐猪TV.js"
-        },
-     {
-     "key":"酷客影院",
-     "name":"😎酷客影院",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/酷客影院.js"
-     }, 
+  "spider": "http://itvbox.cc/sft/jar/fm.jar;md5;488cfa45fed992feb2a2344586970d90",
+  "lives": [
     {
-     "key":"达达龟",
-     "name":"达达龟",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/达达龟.js"
-     },
-   {
-     "key":"蘑菇网",
-     "name":"蘑菇网",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/蘑菇.js"
-     },   
-{
-      "key": "js_ikanbot2",
-      "name": "🤖爱看机器",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
-      "ext": "http://alist.xn--z7x900a.love:63/Bot.js"
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/tvbox/zhibo/1.txt"
+          ]
+        }
+      ]
+    }
+  ],
+  "warningText": "白象影视4K接口",
+  "wallpaper": "http://maoyingshi.cc/api.php",
+    "sites": [
+      {
+      "key": "一",
+      "name": "📖视频目录",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "大陆剧",
+        "中国动漫",
+        "综艺",
+        "科幻片",
+        "喜剧片",
+        "动作片",
+        "战争片",
+        "韩剧",
+        "欧美剧",
+        "日剧",
+        "恐怖片",
+        "剧情片",
+        "伦理片"
+      ]
     },
-   {
-     "key":"双十电影",
-     "name":"➕双十电影",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/双十电影.js"
-     },
-   {
-     "key":"起飞影院",
-     "name":"🛫起飞影院",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/起飞影院.js"
-     },
-   {
-     "key":"麦豆",
-     "name":"🌾麦豆影视",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/麦豆com.js"
-     },
-   {
-     "key":"人人影视",
-     "name":"👰人人影视",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/人人影视.js"
-     },
-   {
-     "key":"555网",
-     "name":"🏓555网",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/555电影[V2].js"
-     },
-     {
-      "key": "速看100",
-      "name": "速看100",
-     "type": 3,
-     "api": "https://xhdwc.tk/lib/drpy2.min.js",
-     "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/速看100[V2].js"
-        },
-{
-            "key": "河马",
-            "name": "🐴河马|影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://m.hmys.tv/show/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3"
-            }
-        },
-   {
-     "key":"两个BT",
-     "name":"🍀两个BT",
-     "type":3,
-     "api":"https://xhdwc.tk/lib/drpy2.min.js",
-     "ext":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/两个BT.js"
-     }
-]
-}
-         
+    {
+      "key": "csp_Ikanbot",
+      "name": "💿聚合普清",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[排序:lz线路,kuaik]",
+      "jar": "http://itvbox.cc/sft/Hk/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+    },
+  {
+      "key": "csp_KungFu404",
+      "name": "🎦阿里设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "📀玩偶4K",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$https://wogg.xyz/"
+    },
+    {
+      "key": "UpYun",
+      "name": "📀U搜4K",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|fhd|auto"
+    },
+    {
+      "key": "七夜",
+      "name": "📀七搜4K",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "📀纸条4K",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+    },
+    {
+      "key": "csp_Zhaozy5",
+      "name": "📀找搜4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt$$$yannanfei$$$abcdefg"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀喵搜4K",
+      "type": 3,
+      "api": "csp_AliPS",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+    },
+    {
+      "key": "csp_Yisou5",
+      "name": "📀易搜4K",
+      "type": 3,
+      "api": "csp_Yisou",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65",
+      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+    },
+  {
+      "key": "说明",
+      "name": "公众号：忘情影视",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "说明2",
+      "name": "勿信菠菜广告",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+  }
