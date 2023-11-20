@@ -795,6 +795,18 @@
         "伦理片"
       ]
     },
+{
+      "key": "短剧",
+      "name": "🍎短剧资源",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
     {
 "key":"骚火",
 "name": "🔱官方一线",
