@@ -1,8 +1,8 @@
 [
 {"name":"熊猫","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://picsum.photos/200/298"},
-{"name":"范明","url":"https://ghps.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/299"},
-{"name":"MV","url":"http://我不是.肥猫.love:63/lives/mv.txt&&&https://picsum.photos/200/300"},
-{"name":"菜菜","url":"https://ghps.cc/https://raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&https://picsum.photos/200/301"},
+{"name":"范明","url":"https://gh.api.99988866.xyz/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/299"},
+{"name":"硬饭","url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://picsum.photos/200/300"},
+{"name":"菜菜","url":"https://gh.api.99988866.xyz/raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&https://picsum.photos/200/301"},
 {"name":"月光","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&https://picsum.photos/200/302"},
 {"name":"腾微","url":"https://codeberg.org/tengweitvbs/tengweitvbs/raw/branch/main/IPTV&&&https://picsum.photos/200/303"},
 {"name":"搜高","url":"https://agit.ai/so/gao/raw/branch/master/list.txt&&&https://picsum.photos/200/304"},
