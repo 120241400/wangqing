@@ -1,28 +1,95 @@
 {
-    "wallpaper": "https://www.dmoe.cc/random.php",
-    "spider": "./custom_spider.jar;md5;d4797079e78d6d97ec1a6efa44e194ab",
-    "lives": [
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
         {
-          "name": "直播",
-          "type": 0,
-          "playerType": 1,
-          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-          "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          //"epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
-          //"logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-],
-    "sites": [
-{"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"},
-{"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"},
-
-{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/骚火电影.js"},
-{"key":"drpy_js_布雷蓝光","name":"影视 | 布雷蓝光[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"},
-{"key":"drpy_js_完美看看","name":"影视 | 完美看看[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
-{"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/子子影视.js"},
-{"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
-{key:'csp_appysv2_M2_haiwai影视',name:'淘片影视',type:0,api:'https://taopianapi.com/home/cjapi/as/mc/vod/xml',searchable:1,quickSearch:0,filterable:0},{key:'1080zyk',name:' 🍁1080ZYK',type:0,api:'https://api.1080zyku.com/inc/api_mac10.php',searchable:1,quickSearch:0,filterable:0},
-{"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/异世界动漫.js"}
-]
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/tvbox/zhibo/1.txt"
+          ]
+        }
+      ]
+    }
+  ],
+  "warningText": "白象影视学习娱乐",
+  "wallpaper": "http://maoyingshi.cc/api.php",
+  "sites": [
+{"key":"幼儿乐园","name":"🏫幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/幼儿乐园.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"少儿教育","name":"🏫少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/少儿教育.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"小学课堂","name":"🏫小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/小学课堂.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"初中课堂","name":"🏫初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/初中课堂.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"高中教育","name":"🏫高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/高中课堂.json","jar":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq0802.jar"},
+{"key":"学习","name":"🏫学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/学习园地.json","jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/dq888.jar"},
+    {
+      "key": "虎牙直播",
+      "name": "🐯虎牙直播",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/虎牙直播.js"
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "🐟斗鱼直播",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {"key":"drpy_js_哔哩直播","name":"📹哔哩直播","searchable":0,"quickSearch":0,"filterable":1,"type":3,"api":"http://ys-g.ysepan.com/623177019/119848528/kuldsQu554L812MJ3M690/drpy2.min.js","ext":"https://download.kstore.space/download/2956/js/biblzb.js"},
+        {
+      "key": "310直播",
+      "name": "⚽310看球",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/310直播.js"
+    },
+        {
+      "key": "DJ哟哟音乐网",
+      "name": "🎵DJ音乐",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://drpy.cainisi.cf/js/DJ音乐.js"
+    },
+        {
+      "key": "MV_vod",
+      "name": "🎵明星MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "oval"
+      }
+    },
+    {
+      "key": "说明",
+      "name": "公众号：忘情影视",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "说明2",
+      "name": "勿信菠菜广告",
+      "type": 3,
+      "api": "360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
 }
