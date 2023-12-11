@@ -867,7 +867,7 @@
       "key": "官方",
       "name": "🔱官方二线",
       "type": 1,
-      "api": "http://cj.md214.cn/api.php/provide/vod?https://api.iku.cool/api.php/provide/vod?http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "api": "http://aliys.cn:90/api.php/provide/vod?http://cj.md214.cn/api.php/provide/vod?https://api.iku.cool/api.php/provide/vod?http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "playUrl": "https://nojx.cc/yyds/?url=",
       "searchable": 1,
       "quickSearch": 1,
