@@ -1,0 +1,13 @@
+[
+{"name":"一线","url":"https://m3u.ibert.me/cn.m3u&&&https://picsum.photos/200/298"},
+{"name":"二线","url":"https://m3u.ibert.me/cn_n.m3u&&&https://picsum.photos/200/299"},
+{"name":"三线","url":"https://m3u.ibert.me/cn_c.m3u&&&https://picsum.photos/200/300"},
+{"name":"四线","url":"https://m3u.ibert.me/cn_p.m3u&&&https://picsum.photos/200/301"},
+{"name":"五线","url":"https://m3u.ibert.me/all.m3u&&&https://picsum.photos/200/302"},
+{"name":"六线","url":"https://m3u.ibert.me/o_all.m3u&&&https://picsum.photos/200/303"},
+{"name":"七线","url":"https://m3u.ibert.me/o_cn.m3u&&&https://picsum.photos/200/304"},
+{"name":"八线","url":"https://m3u.ibert.me/o_s_cn.m3u&&&https://picsum.photos/200/305"},
+{"name":"九线","url":"https://m3u.ibert.me/o_s_cn_112114.m3u&&&https://picsum.photos/200/306"},
+{"name":"十线","url":"https://m3u.ibert.me/o_s_cn_cctv.m3u&&&https://picsum.photos/200/307"},
+{"name":"十一","url":"https://m3u.ibert.me/o_s_cn_cgtn.m3u&&&https://picsum.photos/200/308"},
+]
