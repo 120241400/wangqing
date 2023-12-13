@@ -9,5 +9,5 @@
 {"name":"八线","url":"https://m3u.ibert.me/o_s_cn.m3u&&&https://picsum.photos/200/305"},
 {"name":"九线","url":"https://m3u.ibert.me/o_s_cn_112114.m3u&&&https://picsum.photos/200/306"},
 {"name":"十线","url":"https://m3u.ibert.me/o_s_cn_cctv.m3u&&&https://picsum.photos/200/307"},
-{"name":"十一","url":"https://m3u.ibert.me/o_s_cn_cgtn.m3u&&&https://picsum.photos/200/308"},
+{"name":"十一","url":"https://m3u.ibert.me/o_s_cn_cgtn.m3u&&&https://picsum.photos/200/308"}
 ]
