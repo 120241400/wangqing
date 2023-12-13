@@ -13,7 +13,7 @@
   "sites": [
  {
       "key": "零",
-      "name": "🏍️极速资源",
+      "name": "🚀极速资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
       "searchable": 1,
@@ -867,7 +867,7 @@
       "key": "官方",
       "name": "🔱官方二线",
       "type": 1,
-      "api": "http://aliys.cn:90/api.php/provide/vod?http://cj.baozi66.top:66/api.php/provide/vod?http://cj.md214.cn/api.php/provide/vod?https://api.iku.cool/api.php/provide/vod?http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod?http://aliys.cn:90/api.php/provide/vod?http://cj.md214.cn/api.php/provide/vod?https://api.iku.cool/api.php/provide/vod?http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "playUrl": "https://nojx.cc/yyds/?url=",
       "searchable": 1,
       "quickSearch": 1,
