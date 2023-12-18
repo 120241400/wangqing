@@ -20,7 +20,7 @@
       "key": "一",
       "name": "📖视频目录",
       "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
