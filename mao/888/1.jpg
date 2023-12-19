@@ -864,7 +864,7 @@
       "name": "🎡海外资源",
       "type": 0,
       "api": "https://1080api.com/api.php/provide/vod/at/xml/",
-"playUrl": "json:https://json.1080jx.com:7788/api?url=",
+"playUrl": "https://vo.1080jx.com:7788/player?url=",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
