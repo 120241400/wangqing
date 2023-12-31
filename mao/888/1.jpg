@@ -184,11 +184,12 @@
         "伦理片"
       ]
     },
-    {
+     {
       "key": "七",
       "name": "📡量子资源",
       "type": 1,
       "api": "http://www.lzizy1.com/api.php/provide/vod/from/lzm3u8",
+      "playUrl": "https://jx.quankan.app/?url=",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
@@ -208,7 +209,6 @@
         "伦理"
       ]
     },
-
     {
       "key": "八",
       "name": "🚅快车资源",
