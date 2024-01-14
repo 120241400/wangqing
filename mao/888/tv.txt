@@ -4,7 +4,7 @@
 {"name":"小胡","url":"https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt&&&https://picsum.photos/200/300"},
 {"name":"搜高","url":"https://agit.ai/so/gao/raw/branch/master/list.txt&&&https://picsum.photos/200/301"},
 {"name":"小马","url":"https://szyyds.cn/tv/live/x.txt&&&https://picsum.photos/200/302"},
-{"name":"熊猫","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://picsum.photos/200/306"},
+{"name":"熊猫","url":"http://我不是.肥猫.live/TV/tvzb.txt&&&https://picsum.photos/200/306"},
 {"name":"范明","url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://picsum.photos/200/304"},
 {"name":"硬饭","url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://picsum.photos/200/305"},
 {"name":"菜菜","url":"https://ghproxy.net/https://raw.githubusercontent.com/allonmymind/HangUp/main/CatTV/CB/tv/bc.txt&&&https://picsum.photos/200/306"},
