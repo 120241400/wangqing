@@ -21,7 +21,7 @@
       "name": "📖视频目录",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8",
-"playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
+      "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
