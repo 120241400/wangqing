@@ -875,8 +875,8 @@
       "name": "🔱官方一线",
       "type": 3,
       "playerType": "2",
-      "api": "https://sun123p.neocities.org/tvbox/xiutan/drpy2.min.js?https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/drpy@master/js/%E9%AA%9A%E7%81%AB.js"
+      "api": "https://sun123p.neocities.org/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://sun123p.neocities.org/tvbox/saohuo.js"
     },
     {
       "key": "官方",
