@@ -55,8 +55,8 @@
       "key": "爱看机器人",
       "name": "爱看机器",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+      "api": "https://sun123p.neocities.org/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://sun123p.neocities.org/tvbox/ikanbot2.js"
      },
       {
       "key": "csp_KungFu404",
