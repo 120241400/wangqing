@@ -53,10 +53,10 @@
     },
       {
       "key": "爱看机器人",
-      "name": "爱看机器",
+      "name": "🤖爱看机器",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/ikanbot2.js"
+      "api": "https://fastidious-kitsune-9ab51c.netlify.app/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/tvbox/zhanjs/ikanbot2.js"
      },
       {
       "key": "csp_KungFu404",
