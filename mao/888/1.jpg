@@ -885,6 +885,14 @@
       "playerType": "2",
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/农民影视.js"
+    },   
+    {
+      "key": "九九六",
+      "name": "🔱九六高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
+      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/996影视.js"
     },
     {
       "key": "骚火",
@@ -893,6 +901,14 @@
       "playerType": "2",
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/骚火.js"
+    },
+    {
+      "key": "喵次元",
+      "name": "🔱喵漫高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
+      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/喵次元.js"
     },
     {
       "key": "官方",
@@ -926,16 +942,6 @@
         "记录片"
       ]
     },
-{ 
-"key": "996", 
-"name": "🔱九六高清",
- "type": 3, 
- "filterable":   1 , 
-"api": "csp_XBPQ",
- "ext": { 
- "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
- "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}, 
-      "jar": "https://123.155123.xyz/Yoursmile.jar?https://wangqing.vip/mao/guize/Yoursmile.jar"},
     {
       "key": "直播转点播",
       "name": "📺电视直播",
