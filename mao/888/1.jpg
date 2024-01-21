@@ -875,7 +875,7 @@
       "name": "🔱低端高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
+      "api": "https://jsdelivr.b-cdn.net/gh/hjdhnx/dr_py/libs/drpy2.min.js?https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/ddys.js"
     },
     {
