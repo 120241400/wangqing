@@ -1,5 +1,5 @@
 {
-  "spider": "http://itvbox.cc/sft/jar/fm.jar;md5;28c7950d7b33ba3ee8e2d322882ffa87",
+  "spider": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/jar/fm.jar;md5;28c7950d7b33ba3ee8e2d322882ffa87",
   "warningText": "白象高清接口",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
@@ -66,7 +66,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "http://itvbox.cc/sft/jar/alisz.jar"
+      "jar": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/jar/alisz.jar"
     },
     {
       "key": "csp_WoGG",
