@@ -870,9 +870,17 @@
         "甜宠"
       ]
     },
+   {
+      "key": "低端",
+      "name": "🔱低端高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
+      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/ddys.js"
+    },
     {
       "key": "农民",
-      "name": "🔱官方一线",
+      "name": "🔱农民高清",
       "type": 3,
       "playerType": "2",
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
@@ -880,7 +888,7 @@
     },
     {
       "key": "骚火",
-      "name": "🔱官方二线",
+      "name": "🔱骚火高清",
       "type": 3,
       "playerType": "2",
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js?https://sun123p.neocities.org/tvbox/xiutan/drpy2.min.js",
@@ -888,7 +896,7 @@
     },
     {
       "key": "官方",
-      "name": "🔱官方三线",
+      "name": "🔱官方高清",
       "type": 1,
       "api": "http://aliys.cn:90/api.php/provide/vod",
       "playUrl": "https://wangqing.vip/mao/taobao/guanjie.html?url=",
@@ -920,7 +928,7 @@
     },
 { 
 "key": "996", 
-"name": "🔱官方四线",
+"name": "🔱九六高清",
  "type": 3, 
  "filterable":   1 , 
 "api": "csp_XBPQ",
