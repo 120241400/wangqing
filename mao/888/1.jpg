@@ -725,30 +725,6 @@
       ]
     },
     {
-      "key": "三十一",
-      "name": "🌸樱花资源",
-      "type": 1,
-      "api": "https://www.yhzy.cc/api.php/provide/vod/from/yhm3u8?https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "科幻片",
-        "喜剧片",
-        "动作片",
-        "战争片",
-        "韩剧",
-        "欧美剧",
-        "日剧",
-        "恐怖片",
-        "剧情片",
-        "伦理片"
-      ]
-    },
-    {
       "key": "三十二",
       "name": "🎀CK资源",
       "type": 1,
