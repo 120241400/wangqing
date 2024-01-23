@@ -671,7 +671,7 @@
     },
     {
       "key": "taopian",
-      "name": "🕹️淘片资源",
+      "name": "🔮淘片资源",
       "type": 1,
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "searchable": 1,
