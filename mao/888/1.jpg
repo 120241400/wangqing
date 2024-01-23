@@ -737,7 +737,6 @@
       "name": "🔱小胡高清",
       "type": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/",
-      "playUrl": "https://wangqing.vip/mao/taobao/guanjie.html?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
