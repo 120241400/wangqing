@@ -582,30 +582,6 @@
       ]
     },
     {
-      "key": "二十七",
-      "name": "📷索尼资源",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "科幻片",
-        "喜剧片",
-        "动作片",
-        "战争片",
-        "韩剧",
-        "欧美剧",
-        "日剧",
-        "恐怖片",
-        "剧情片",
-        "伦理片"
-      ]
-    },
-    {
       "key": "二十八",
       "name": "♾️最大资源",
       "type": 1,
@@ -740,16 +716,6 @@
         "剧情片",
         "伦理片"
       ]
-    },
-    {
-      "key": "海外",
-      "name": "🎡海外资源",
-      "type": 0,
-      "api": "https://1080api.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://vo.1080jx.com:7788/player?url=",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "短剧",
