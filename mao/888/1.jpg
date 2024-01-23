@@ -607,7 +607,7 @@
     },
     {
       "key": "二十五",
-      "name": "🔬高清资源",
+      "name": "🔬优质资源",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "searchable": 1,
