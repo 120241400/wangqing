@@ -510,58 +510,10 @@
       ]
     },
     {
-      "key": "二十二",
-      "name": "️⌚享看资源",
-      "type": 1,
-      "api": "https://xkanzy10.com/api.php/provide/vod/from/xkanm3u8",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
       "key": "二十三",
       "name": "🐸快看资源",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "国产综艺",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "伦理片"
-      ]
-    },
-    {
-      "key": "二十四",
-      "name": "🐷八戒资源",
-      "type": 1,
-      "api": "https://cj.bajiecaiji.com/inc/feifei3bjm3u8/index.php",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
