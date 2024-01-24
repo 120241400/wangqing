@@ -21,50 +21,50 @@
       "key": "哔哩直播",
       "name": "🎃哔哩直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/哔哩直播.js"
     },
     {
       "key": "斗鱼直播",
       "name": "🐟斗鱼直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/斗鱼直播.js"
     },
     {
       "key": "虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/虎牙直播.js"
     },
     {
       "key": "JustLive",
       "name": "🔰聚合直播",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JustLive.js"
     },
     {
       "key": "JR直播",
       "name": "⚽捷啊体育",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JRKAN直播.js"
     },
     {
       "key": "88看球",
       "name": "⚽八八体育",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/88看球.js"
     },
     {
       "key": "drpy_js_310直播",
       "name": "⚽三一体育",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/310直播.js"
     },
     {
       "key": "drpy_js_DJ音乐",
