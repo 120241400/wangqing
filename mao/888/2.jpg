@@ -1,4 +1,5 @@
 {
+"spider": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
@@ -215,7 +216,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "url": "http://meowtv.cn/zb",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
