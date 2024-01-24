@@ -45,6 +45,16 @@
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JustLive.js"
     },
+{
+      "key": "企鹅体育",
+      "name": "🏀企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/xp/企鹅体育.json"
+    },
     {
       "key": "JR直播",
       "name": "🏀捷啊体育",
