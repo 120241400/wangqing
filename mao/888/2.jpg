@@ -33,7 +33,7 @@
     },
     {
       "key": "虎牙直播",
-      "name": "🐯虎牙直播",
+      "name": "🦷虎牙直播",
       "type": 3,
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/虎牙直播.js"
@@ -47,21 +47,21 @@
     },
     {
       "key": "JR直播",
-      "name": "⚽捷啊体育",
+      "name": "🏀捷啊体育",
       "type": 3,
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JRKAN直播.js"
     },
     {
       "key": "88看球",
-      "name": "⚽八八体育",
+      "name": "🏀八八体育",
       "type": 3,
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/88看球.js"
     },
     {
       "key": "drpy_js_310直播",
-      "name": "⚽三一体育",
+      "name": "🏀三一体育",
       "type": 3,
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/310直播.js"
