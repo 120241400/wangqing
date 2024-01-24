@@ -847,6 +847,32 @@
       ]
     },
     {
+     "key":"畅梦",
+     "name":"🔱畅梦高清",
+     "type":3,      "api":"https://weixine.net/js/lib/drpy2.min.js",    "ext":"https://weixine.net/js/changmeng.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "⛄看吧动漫",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/去看吧.js"
+    },
+    {
+      "key": "路漫漫",
+      "name": "⛄路漫动漫",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/路漫漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "⛄樱花动漫",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NT动漫.js"
+    },
+    {
       "key": "直播转点播",
       "name": "📺电视直播",
       "type": 3,
