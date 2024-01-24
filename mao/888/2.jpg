@@ -18,22 +18,22 @@
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/ikanbot2.js"
     },
     {
-      "key": "drpy_js_哔哩直播",
-      "name": "直播 | 哔哩[js]",
+      "key": "哔哩直播",
+      "name": "🃏哔哩直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
     },
     {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播 | 斗鱼[js]",
+      "key": "斗鱼直播",
+      "name": "🐟斗鱼直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
     },
     {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播 | 虎牙[js]",
+      "key": "虎牙直播",
+      "name": "🐅虎牙直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
