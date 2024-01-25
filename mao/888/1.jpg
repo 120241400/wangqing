@@ -851,6 +851,14 @@
      "name":"🔱畅梦高清",
      "type":3,      "api":"https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",    "ext":"https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/畅梦.js"
     },
+   {
+      "key": "两个BT",
+      "name": "🔱两个高清",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/两个BT.js"
+    },
     {
       "key": "去看吧",
       "name": "🎄看吧动漫",
