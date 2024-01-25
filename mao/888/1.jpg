@@ -734,6 +734,14 @@
       ]
     },
     {
+      "key": "九九六",
+      "name": "📷索尼资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
+      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/996影视.js"
+    },
+    {
       "key": "短剧",
       "name": "🍎短剧资源",
       "type": 1,
@@ -781,14 +789,6 @@
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/农民影视.js"
     },   
-    {
-      "key": "九九六",
-      "name": "🔱九六高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/996影视.js"
-    },
     {
       "key": "骚火",
       "name": "🔱骚火高清",
