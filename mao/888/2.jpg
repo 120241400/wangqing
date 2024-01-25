@@ -77,6 +77,13 @@
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/310直播.js"
     },
+{
+      "key": "拳皇",
+      "name": "🥊拳皇赛事",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/拳皇.js"
+    },
     {
       "key": "drpy_js_DJ音乐",
       "name": "🎵呦呦音乐",
@@ -125,11 +132,24 @@
     },
     {
       "key": "drpy_js_相声随身听",
-      "name": "♠️名人相声",
+      "name": "📻名人相声",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
       "playerType": "2"
+    },{
+      "key": "广播迷FM",
+      "name": "📻广播迷FM",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/广播迷FM.js"
+    },
+{
+      "key": "海洋听书",
+      "name": "📚海洋听书",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/海洋听书.js"
     },
     {
       "key": "drpy_js_i275听书",
