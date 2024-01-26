@@ -10,7 +10,21 @@
       "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "欧美剧",
+        "日韩剧",
+        "战争片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片"
+      ]
     },
     {
       "key": "555",
