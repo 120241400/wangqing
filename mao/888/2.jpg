@@ -3,10 +3,10 @@
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
-      "key": "394tv",
+      "key": "911",
       "name": "🔱聚合一站",
       "type": 1,
-      "api": "https://www.394tv.com/api.php/provide/vod",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod",
       "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
       "searchable": 1,
       "quickSearch": 1,
