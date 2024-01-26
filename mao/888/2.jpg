@@ -5,7 +5,7 @@
     {
       "key": "394tv",
       "name": "🔱聚合一站",
-      "type": 0,
+      "type": 1,
       "api": "https://www.394tv.com/api.php/provide/vod",
       "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
       "searchable": 1,
