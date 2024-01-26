@@ -70,7 +70,7 @@
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JustLive.js"
     },
-{
+    {
       "key": "企鹅体育",
       "name": "🏀企鹅体育",
       "type": 3,
@@ -117,7 +117,7 @@
         "斯诺克"
       ]
     },
-{
+    {
       "key": "拳皇",
       "name": "🥊拳皇赛事",
       "type": 3,
