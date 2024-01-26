@@ -3,8 +3,18 @@
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
-      "key": "555",
+      "key": "394tv",
       "name": "🔱聚合一站",
+      "type": 0,
+      "api": "https://www.394tv.com/api.php/provide/vod",
+      "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "555",
+      "name": "🔱聚合二站",
       "type": 3,
       "playerType": "2",
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
@@ -12,7 +22,7 @@
     },
         {
       "key": "爱看",
-      "name": "🔱聚合二站",
+      "name": "🔱聚合三站",
       "type": 3,
       "playerType": "2",
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
