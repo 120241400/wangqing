@@ -101,6 +101,22 @@
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/310直播.js"
     },
+    {
+      "key": "暴风",
+      "name": "🏀体育录像",
+      "type": 1,
+      "api": "http://app.bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "https://wangqing.vip/mao/taobao/bfqtk.html?url=",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ]
+    },
 {
       "key": "拳皇",
       "name": "🥊拳皇赛事",
