@@ -154,6 +154,13 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
+{
+      "key": "广播迷FM",
+      "name": "📻各地广播",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/广播迷FM.js"
+    },
     {
       "key": "drpy_js_相声随身听",
       "name": "📻名人相声",
@@ -164,7 +171,7 @@
     },
     {
       "key": "评书",
-      "name": "📻评书┃BPQ",
+      "name": "📻名人评书",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -196,13 +203,6 @@
         "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
-    },
-{
-      "key": "广播迷FM",
-      "name": "📻广播迷FM",
-      "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/广播迷FM.js"
     },
 {
       "key": "海洋听书",
