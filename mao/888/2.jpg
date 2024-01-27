@@ -6,7 +6,7 @@
       "key": "911",
       "name": "🔱聚合一站",
       "type": 1,
-      "api": "http://www.tvyb10.com/api.php/provide/vod",
+      "api": "https://lovedan.net/api.php/provide/vod",
       "playUrl": "https://wangqing.vip/mao/taobao/guanjie.html?url=",
       "searchable": 1,
       "filterable": 0,
