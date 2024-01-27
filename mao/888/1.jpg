@@ -875,6 +875,13 @@
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/畅梦.js"
     },
+{
+      "key": "南柯",
+      "name": "🔱南柯高清",
+      "type": 3,
+      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/南柯.js"
+    },
     {
       "key": "怡萱动漫(js)",
       "name": "🎄怡萱动漫",
