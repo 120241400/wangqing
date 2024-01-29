@@ -58,7 +58,7 @@
     },
     {
       "key": "JR直播",
-      "name": "🏀捷啊体育",
+      "name": "🏀进啊体育",
       "type": 3,
       "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
       "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JRKAN直播.js"
