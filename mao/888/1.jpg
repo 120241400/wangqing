@@ -77,7 +77,7 @@
       "name": "🏄新浪资源",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 0,
       "changeable": 1,
       "categories": [
