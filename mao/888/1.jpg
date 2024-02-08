@@ -712,12 +712,27 @@
       ]
     },
     {
-      "key": "九九六",
+      "key": "索尼",
       "name": "📷索尼资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/996影视.js"
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日韩动漫",
+        "大陆综艺",
+        "韩国剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片"
+      ]
     },
     {
       "key": "短剧",
