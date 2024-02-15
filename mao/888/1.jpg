@@ -842,32 +842,32 @@
       "key": "两个BT",
       "name": "🔱两个高清",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/两个BT.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/两个BT.js"
     },
     {
       "key": "子子影视",
       "name": "🔱子子高清",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/子子影视.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/子子影视.js"
     },
 {
       "key": "南柯",
       "name": "🔱南柯高清",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/南柯.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/南柯.js"
     },
     {
       "key": "视觉影视",
       "name": "🔱视觉高清",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/新视觉.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/新视觉.js"
     },
     {
       "key": "怡萱动漫(js)",
@@ -881,22 +881,22 @@
       "key": "去看吧",
       "name": "🎄看吧动漫",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/去看吧.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/去看吧.js"
     },
     {
       "key": "路漫漫",
       "name": "🎄路漫动漫",
       "type": 3,
-      "api": "http://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "http://tv.wangqing.vip/zhanjs/路漫漫.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/路漫漫.js"
     },
     {
       "key": "NT动漫",
       "name": "🎄樱花动漫",
       "type": 3,
-      "api": "http://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "http://tv.wangqing.vip/zhanjs/NT动漫.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/NT动漫.js"
     },
     {
       "key": "直播转点播",
@@ -909,7 +909,7 @@
       "key": "直播转点播1",
       "name": "📺电视直播1",
       "type": 3,
-      "api": "http://tv.wangqing.vip/xiutan/live2vod.js",
+      "api": "https://tv.wangqing.vip/xiutan/live2vod.js",
       "ext": "https://wangqing.vip/mao/888/tv1.txt"
     },
     {
