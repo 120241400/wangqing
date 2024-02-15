@@ -7,44 +7,44 @@
       "name": "🔱聚合一站",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/555.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/555.js"
     },
         {
       "key": "爱看",
       "name": "🔱聚合二站",
       "type": 3,
       "playerType": "2",
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/ikanbot2.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/ikanbot2.js"
     },
     {
       "key": "哔哩直播",
       "name": "🦄哔哩直播",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/哔哩直播.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/哔哩直播.js"
     },
     {
       "key": "斗鱼直播",
       "name": "🐟斗鱼直播",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/斗鱼直播.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/斗鱼直播.js"
     },
     {
       "key": "虎牙直播",
       "name": "🦷虎牙直播",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/虎牙直播.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/虎牙直播.js"
     },
     {
       "key": "JustLive",
       "name": "🔰聚合直播",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JustLive.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/JustLive.js"
     },
     {
       "key": "企鹅体育",
@@ -60,8 +60,8 @@
       "key": "JR直播",
       "name": "🏀进啊体育",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/JRKAN直播.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/JRKAN直播.js"
     },
     {
       "key": "88看球",
