@@ -771,40 +771,40 @@
       "name": "🔱低端高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/ddys.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/ddys.js"
     },
     {
       "key": "农民",
       "name": "🔱农民高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/农民影视.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/农民影视.js"
     },   
     {
       "key": "骚火",
       "name": "🔱骚火高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/骚火.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
     },
     {
       "key": "喵次元",
       "name": "🔱喵漫高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/喵次元.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/喵次元.js"
     },
     {
       "key": "奇优",
       "name": "🔱奇优高清",
       "type": 3,
       "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/奇优影院.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/奇优影院.js"
     },
     {
       "key": "官方",
