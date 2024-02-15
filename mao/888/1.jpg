@@ -888,15 +888,15 @@
       "key": "路漫漫",
       "name": "🎄路漫动漫",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/路漫漫.js"
+      "api": "http://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "http://tv.wangqing.vip/zhanjs/路漫漫.js"
     },
     {
       "key": "NT动漫",
       "name": "🎄樱花动漫",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/NT动漫.js"
+      "api": "http://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "http://tv.wangqing.vip/zhanjs/NT动漫.js"
     },
     {
       "key": "直播转点播",
@@ -909,7 +909,7 @@
       "key": "直播转点播1",
       "name": "📺电视直播1",
       "type": 3,
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/live2vod.js",
+      "api": "http://tv.wangqing.vip/xiutan/live2vod.js",
       "ext": "https://wangqing.vip/mao/888/tv1.txt"
     },
     {
