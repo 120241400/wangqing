@@ -878,12 +878,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
     },
     {
-      "key": "八号影视",
-      "name": "🔱八号高清",
+      "key": "尘落影视",
+      "name": "🔱尘落高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://tv.wangqing.vip/zhanjs/8号影院.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/尘落影视.js"
     },
     {
       "key": "怡萱动漫(js)",
