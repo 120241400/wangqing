@@ -870,6 +870,22 @@
       "ext": "https://tv.wangqing.vip/zhanjs/新视觉.js"
     },
     {
+      "key": "星辰影视",
+      "name": "🔱星辰高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
+    },
+    {
+      "key": "八号影视",
+      "name": "🔱八号高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/8号影院.js"
+    },
+    {
       "key": "怡萱动漫(js)",
       "name": "🎄怡萱动漫",
       "type": 3,
