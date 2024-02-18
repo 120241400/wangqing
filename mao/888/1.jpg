@@ -759,7 +759,7 @@
     },
     {
       "key": "小胡",
-      "name": "🔱小胡超清",
+      "name": "👑小胡超清",
       "type": 1,
       "api": "http://keai.xn--yetu07f.icu/api.php/provide/vod/",
       "searchable": 1,
@@ -768,7 +768,7 @@
     },
    {
       "key": "低端",
-      "name": "🔱低端高清",
+      "name": "👑低端高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
@@ -776,7 +776,7 @@
     },
     {
       "key": "农民",
-      "name": "🔱农民高清",
+      "name": "👑农民高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
@@ -784,7 +784,7 @@
     },   
     {
       "key": "骚火",
-      "name": "🔱骚火高清",
+      "name": "👑骚火高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
@@ -792,7 +792,7 @@
     },
     {
       "key": "喵次元",
-      "name": "🔱喵漫高清",
+      "name": "👑喵漫高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
@@ -800,7 +800,7 @@
     },
     {
       "key": "奇优",
-      "name": "🔱奇优高清",
+      "name": "👑奇优高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
@@ -808,7 +808,7 @@
     },
     {
       "key": "官方",
-      "name": "🔱官方高清",
+      "name": "👑官方高清",
       "type": 1,
       "api": "http://aliys.cn:90/api.php/provide/vod",
       "playUrl": "https://wangqing.vip/mao/taobao/guanjie.html?url=",
@@ -840,7 +840,7 @@
     },
    {
       "key": "两个BT",
-      "name": "🔱两个高清",
+      "name": "👑两个高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
@@ -848,7 +848,7 @@
     },
     {
       "key": "子子影视",
-      "name": "🔱子子高清",
+      "name": "👑子子高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
@@ -856,14 +856,14 @@
     },
 {
       "key": "南柯",
-      "name": "🔱南柯高清",
+      "name": "👑南柯高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/南柯.js"
     },
     {
       "key": "视觉影视",
-      "name": "🔱视觉高清",
+      "name": "👑视觉高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
@@ -871,19 +871,19 @@
     },
     {
       "key": "星辰影视",
-      "name": "🔱星辰高清",
+      "name": "👑星辰高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
       "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
     },
     {
-      "key": "尘落影视",
-      "name": "🔱尘落高清",
+      "key": "干饭影视",
+      "name": "👑干饭高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://tv.wangqing.vip/zhanjs/尘落影视.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/干饭影视.js"
     },
     {
       "key": "怡萱动漫(js)",
