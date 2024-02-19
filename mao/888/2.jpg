@@ -1,5 +1,5 @@
 {
-"spider": "https://fastidious-kitsune-9ab51c.netlify.app/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+"spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
@@ -54,7 +54,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/企鹅体育.json?http://cdn.teyonds.com/xp/企鹅体育.json"
+      "ext": "https://tv.wangqing.vip/zhanjs/企鹅体育.json?http://cdn.teyonds.com/xp/企鹅体育.json"
     },
     {
       "key": "JR直播",
@@ -67,15 +67,15 @@
       "key": "88看球",
       "name": "🏀八八体育",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/88看球.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/88看球.js"
     },
     {
       "key": "drpy_js_310直播",
       "name": "🏀三一体育",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/310直播.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/310直播.js"
     },
     {
       "key": "量子",
@@ -98,8 +98,8 @@
       "key": "拳皇",
       "name": "🥊拳皇赛事",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/拳皇.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/拳皇.js"
     },
     {
       "key": "drpy_js_DJ音乐",
@@ -151,8 +151,8 @@
       "key": "广播迷FM",
       "name": "📻各地广播",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/广播迷FM.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/广播迷FM.js"
     },
     {
       "key": "drpy_js_相声随身听",
@@ -201,8 +201,8 @@
       "key": "海洋听书",
       "name": "📚海洋听书",
       "type": 3,
-      "api": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/xiutan/drpy2.min.js",
-      "ext": "https://jsdelivr.b-cdn.net/gh/120241400/tvbox/zhanjs/海洋听书.js"
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/海洋听书.js"
     },
     {
       "key": "drpy_js_i275听书",
