@@ -632,23 +632,6 @@
       ]
     },
     {
-      "key": "三十三",
-      "name": "🦁魔都资源",
-      "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "动漫电影",
-        "里番动漫"
-      ]
-    },
-    {
       "key": "三十四",
       "name": "🌴乐视资源",
       "type": 1,
@@ -761,10 +744,23 @@
       "key": "小胡",
       "name": "👑小胡超清",
       "type": 1,
-      "api": "http://xh.xzam.cn/api.php/provide/vod?http://keai.xn--yetu07f.icu/api.php/provide/vod/",
+      "api": "http://xh.xzam.cn/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+{
+      "key": "小文",
+      "name": "👑小文高清",
+      "type": 1,
+      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
     },
    {
       "key": "低端",
