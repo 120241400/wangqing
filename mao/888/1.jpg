@@ -761,7 +761,7 @@
       "key": "小胡",
       "name": "👑小胡超清",
       "type": 1,
-      "api": "http://keai.xn--yetu07f.icu/api.php/provide/vod/",
+      "api": "http://xh.xzam.cn/api.php/provide/vod?http://keai.xn--yetu07f.icu/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
