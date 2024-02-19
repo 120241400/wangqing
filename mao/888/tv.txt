@@ -8,7 +8,7 @@
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://picsum.photos/200/304"},
 {"name":"欧歌","url":"http://106.54.39.252/公众号欧歌APP/tv/&&&https://picsum.photos/200/305"},
 {"name":"星辰","url":"http://8.210.232.168/xclive.txt&&&https://picsum.photos/200/306"},
-{"name":"吾爱","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&https://picsum.photos/200/307"},
+{"name":"魔改","url":"https://d.kstore.space/download/2883/20240210.txt&&&https://picsum.photos/200/307"},
 {"name":"喵影","url":"http://meowtv.cn/zb&&&https://picsum.photos/200/308"},
 {"name":"阿布","url":"https://agit.ai/l/ove/raw/branch/master/live.txt&&&https://picsum.photos/200/309"},
 {"name":"小胡","url":"http://xiaohu.xzam.cn/live.txt&&&https://picsum.photos/200/310"},
