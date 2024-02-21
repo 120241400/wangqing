@@ -265,7 +265,7 @@
       "name": "🦷虎牙资源",
       "type": 1,
       "api": "https://www.huyazy.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 0,
       "changeable": 1,
       "categories": [
