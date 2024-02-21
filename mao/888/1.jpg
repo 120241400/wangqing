@@ -718,38 +718,6 @@
       ]
     },
     {
-      "key": "短剧",
-      "name": "🍎短剧资源",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "都市",
-        "古装",
-        "重生",
-        "逆袭",
-        "虐恋",
-        "萌宝",
-        "言情",
-        "穿越",
-        "战神",
-        "神医",
-        "赘婿",
-        "甜宠"
-      ]
-    },
-    {
-      "key": "小胡",
-      "name": "👑小胡超清",
-      "type": 1,
-      "api": "http://cc.xn--yetu07f.icu/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
       "key": "小文",
       "name": "👑小文高清",
       "type": 1,
