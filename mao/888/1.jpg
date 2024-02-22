@@ -720,7 +720,7 @@
     {
       "key": "短剧",
       "name": "🍓短剧资源",
-      "type": 0,
+      "type": 1,
       "api": "https://zzdj.cc/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
