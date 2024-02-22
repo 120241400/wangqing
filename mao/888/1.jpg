@@ -721,7 +721,7 @@
       "key": "短剧",
       "name": "🍓短剧资源",
       "type": 0,
-      "api": "https://zzdj.cc/api.php/provide/vod/",
+      "api": "https://zzdj.cc/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
