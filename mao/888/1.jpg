@@ -721,10 +721,24 @@
       "key": "短剧",
       "name": "🍓短剧资源",
       "type": 0,
-      "api": "https://zzdj.cc/api.php/provide/vod/at/xml",
+      "api": "https://zzdj.cc/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "都市",
+        "古装",
+        "重生",
+        "逆袭",
+        "虐恋",
+        "萌宝",
+        "言情",
+        "穿越",
+        "战神",
+        "神医",
+        "赘婿",
+        "甜宠"
+      ]
     },
     {
       "key": "小文",
