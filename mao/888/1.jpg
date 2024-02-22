@@ -718,6 +718,15 @@
       ]
     },
     {
+      "key": "短剧",
+      "name": "🍓短剧资源",
+      "type": 0,
+      "api": "https://zzdj.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "小文",
       "name": "👑小文高清",
       "type": 1,
@@ -884,13 +893,6 @@
       "type": 3,
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js?http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js?https://jihulab.com/duomv/xduo/-/raw/main/libs/zbzdb.js?http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "https://wangqing.vip/mao/888/tv.txt"
-    },
-    {
-      "key": "直播转点播1",
-      "name": "📺电视直播1",
-      "type": 3,
-      "api": "https://tv.wangqing.vip/xiutan/live2vod.js",
-      "ext": "https://wangqing.vip/mao/888/tv1.txt"
     },
     {
       "key": "push_agent",
