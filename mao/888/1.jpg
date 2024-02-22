@@ -718,27 +718,12 @@
       ]
     },
     {
-      "key": "短剧",
-      "name": "🍓短剧资源",
-      "type": 1,
-      "api": "https://zzdj.cc/api.php/provide/vod/from/zzdj",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "categories": [
-        "都市",
-        "古装",
-        "重生",
-        "逆袭",
-        "虐恋",
-        "萌宝",
-        "言情",
-        "穿越",
-        "战神",
-        "神医",
-        "赘婿",
-        "甜宠"
-      ]
+      "key": "蛋蛋",
+      "name": "👑蛋蛋高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/蛋蛋剧.js"
     },
     {
       "key": "小文",
