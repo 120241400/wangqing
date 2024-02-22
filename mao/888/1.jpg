@@ -718,12 +718,12 @@
       ]
     },
     {
-      "key": "蛋蛋",
-      "name": "👑蛋蛋高清",
+      "key": "六度",
+      "name": "👑六度高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/蛋蛋剧.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/六度TV.js"
     },
     {
       "key": "小文",
