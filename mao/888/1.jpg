@@ -636,7 +636,7 @@
       "name": "🌴乐视资源",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 0,
       "changeable": 1,
       "categories": [
