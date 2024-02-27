@@ -718,6 +718,13 @@
       ]
     },
     {
+      "key": "放牛",
+      "name": "👑放牛超清",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/tg.jar"
+    },
+    {
       "key": "六度",
       "name": "👑六度高清",
       "type": 3,
@@ -779,38 +786,6 @@
       "ext": "https://tv.wangqing.vip/zhanjs/奇优影院.js"
     },
     {
-      "key": "官方",
-      "name": "👑官方高清",
-      "type": 1,
-      "api": "http://aliys.cn:90/api.php/provide/vod",
-      "playUrl": "https://wangqing.vip/mao/taobao/guanjie.html?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "连续剧",
-        "电影",
-        "综艺",
-        "动漫",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片"
-      ]
-    },
-   {
       "key": "两个BT",
       "name": "👑两个高清",
       "type": 3,
