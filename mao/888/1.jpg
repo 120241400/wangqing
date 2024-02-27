@@ -737,7 +737,7 @@
       "name": "👑小文高清",
       "type": 1,
       "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "playUrl": "https://cj.wanbu.cc/jmzaxxxp.php?url=",
       "categories": [
         "电影",
         "电视剧",
@@ -760,7 +760,17 @@
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/农民影视.js"
-    },   
+    },
+    {
+      "key": "看吧TV",
+      "name": "👑看吧高清",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/看吧.json"
+    },
     {
       "key": "骚火",
       "name": "👑骚火高清",
@@ -768,6 +778,14 @@
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
+    },
+    {
+      "key": "素白白",
+      "name": "👑素白高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/素白白.js"
     },
     {
       "key": "喵次元",
