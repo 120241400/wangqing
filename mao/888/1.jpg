@@ -740,18 +740,6 @@
         "danmu": true
       }
     },
-  {
-      "key": "Yingtantv1",
-      "name": "👑影探超清",
-      "type": 3,
-      "api": "csp_Yingtantv",
-      "jar": "http://我不是.摸鱼儿.top/0229/jar/mypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "ext": "$$$http://我不是.摸鱼儿.top/json/yt.json$$$1"
-    },
     {
       "key": "六度",
       "name": "👑六度高清",
