@@ -827,6 +827,14 @@
       "ext": "https://tv.wangqing.vip/zhanjs/干饭影视.js"
     },
     {
+      "key": "白嫖影视",
+      "name": "👑白嫖高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/白嫖影视.js"
+    },
+    {
       "key": "怡萱动漫(js)",
       "name": "🎄怡萱动漫",
       "type": 3,
