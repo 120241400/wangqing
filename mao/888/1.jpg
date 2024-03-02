@@ -723,6 +723,23 @@
       "api": "csp_Fangniu4k",
       "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/tg.jar"
     },
+   {
+      "key": "宇宙",
+      "name": "👑宇宙超清",
+      "type": 3,
+      "api": "csp_LvDou",
+      "jar": "http://我不是.摸鱼儿.top/0229/jar/mypg.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext":  {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebisha857",
+        "danmu": true
+      }
+    },
     {
       "key": "六度",
       "name": "👑六度高清",
