@@ -763,13 +763,13 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
     },
-    {
-      "key": "兄弟",
-      "name": "👑兄弟高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/兄弟影视.js"
+        {
+      "key": "xh",
+      "name": "👑小胡超清",
+      "type": 1,
+      "playerType": 3,
+      "api": "http://cc.xzam.cn/api.php/provide/vod/",
+      "playUrl": ""
     },
     {
       "key": "喵次元",
