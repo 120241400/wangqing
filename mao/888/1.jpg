@@ -724,21 +724,12 @@
       "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/tg.jar"
     },
    {
-      "key": "宇宙",
-      "name": "👑宇宙超清",
+      "key": "厂长",
+      "name": "👑厂长高清",
       "type": 3,
-      "api": "csp_LvDou",
-      "jar": "http://我不是.摸鱼儿.top/0229/jar/mypg.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "ext":  {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebisha857",
-        "danmu": true
-      }
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/厂长资源.js"
     },
     {
       "key": "六度",
