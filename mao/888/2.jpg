@@ -288,7 +288,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "http://meowtv.cn/zb",
+      "url": "https://d.kstore.space/download/2883/20240210.txt?http://meowtv.cn/zb",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
