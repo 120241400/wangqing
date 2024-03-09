@@ -112,12 +112,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
     },
     {
-      "key": "干饭影视",
-      "name": "👑干饭高清",
+      "key": "南瓜影视",
+      "name": "👑南瓜高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://tv.wangqing.vip/zhanjs/干饭影视.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/南瓜影视.js"
     },
     {
       "key": "白嫖影视",
