@@ -127,6 +127,31 @@
       "searchable": 1,
       "ext": "https://tv.wangqing.vip/zhanjs/白嫖影视.js"
     },
+   {
+      "key": "牛牛",
+      "name": "🐂牛牛高清",
+      "type": 1,
+      "api": "http://74.48.117.239/api.php/provide/vod/?ac=detail",
+      "playUrl": "https://bf.beibe.icu/player/ec.php?code=mayi&if=1&from=tutu&url=",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产",
+        "国产动漫",
+        "电影",
+        "大陆",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
     {
       "key": "爱坤",
       "name": "🐔爱坤资源",
