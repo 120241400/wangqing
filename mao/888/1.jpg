@@ -278,11 +278,19 @@
       "ext": "https://tv.wangqing.vip/zhanjs/企鹅体育.json?http://cdn.teyonds.com/xp/企鹅体育.json"
     },
     {
-      "key": "JR直播",
-      "name": "🏀进啊体育",
-      "type": 3,
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/JRKAN直播.js"
+      "key": "赛事",
+      "name": "🔮赛事录像",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "篮球",
+        "足球",
+        "斯诺克",
+        "短剧"
+      ]
     },
     {
       "key": "拳皇",
