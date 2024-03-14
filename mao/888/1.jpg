@@ -279,10 +279,10 @@
     },
     {
       "key": "赛事",
-      "name": "🔮赛事录像",
+      "name": "🏀赛事录像",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 0,
       "changeable": 1,
       "categories": [
