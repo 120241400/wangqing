@@ -896,6 +896,13 @@
       "ext": "https://tv.wangqing.vip/zhanjs/NT动漫.js"
     },
     {
+      "key": "JustLive",
+      "name": "🔰聚合直播",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/JustLive.js"
+    },
+    {
       "key": "直播转点播",
       "name": "📺电视直播",
       "type": 3,
