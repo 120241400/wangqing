@@ -1,0 +1,321 @@
+{
+  "wallpaper": "http://tool.teyonds.com/api?https://picsum.photos/1300/600?http://maoyingshi.cc/api.php",
+  "sites": [
+    {
+      "key": "骚火",
+      "name": "👑骚火高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
+    },
+    {
+      "key": "农民",
+      "name": "👑农民高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/农民影视.js"
+    },
+    {
+      "key": "放牛",
+      "name": "👑放牛超清",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/tg.jar"
+    },
+    {
+      "key": "厂长",
+      "name": "👑厂长高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/厂长资源.js"
+    },
+    {
+      "key": "六度",
+      "name": "👑六度高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/六度TV.js"
+    },
+    {
+      "key": "低端",
+      "name": "👑低端高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/ddys.js"
+    },
+    {
+      "key": "xh",
+      "name": "👑小胡超清",
+      "type": 1,
+      "playerType": 3,
+      "api": "http://cc.xzam.cn/api.php/provide/vod/",
+      "playUrl": ""
+    },
+    {
+      "key": "喵次元",
+      "name": "👑喵漫高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/喵次元.js"
+    },
+    {
+      "key": "尘落",
+      "name": "👑尘落高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/尘落影视.js"
+    },
+    {
+      "key": "两个BT",
+      "name": "👑两个高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/两个BT.js"
+    },
+    {
+      "key": "子子影视",
+      "name": "👑子子高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/子子影视.js"
+    },
+    {
+      "key": "南柯",
+      "name": "👑南柯高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/南柯.js"
+    },
+    {
+      "key": "视觉影视",
+      "name": "👑视觉高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/新视觉.js"
+    },
+    {
+      "key": "星辰影视",
+      "name": "👑星辰高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
+    },
+    {
+      "key": "南瓜影视",
+      "name": "👑南瓜高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/南瓜影视.js"
+    },
+    {
+      "key": "白嫖影视",
+      "name": "👑白嫖高清",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/白嫖影视.js"
+    },
+    {
+      "key": "牛牛",
+      "name": "👑官方高清",
+      "type": 1,
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "综艺",
+        "动漫",
+        "体育",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "爱坤",
+      "name": "🔱爱坤资源",
+      "type": 1,
+      "api": "https://ikzy9.com/api.php/provide/vod/form/ikm3u8",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日本动漫",
+        "大陆综艺",
+        "欧美剧",
+        "韩国剧",
+        "战争片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片"
+      ]
+      },
+      {
+      "key": "熊掌",
+      "name": "🔱熊掌资源",
+      "type": 1,
+      "api": "https://xzcjz.com/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "欧美剧",
+        "日韩剧",
+        "战争片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片"
+      ]
+      },
+      {
+      "key": "六",
+      "name": "🔱非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日韩动漫",
+        "大陆综艺",
+        "韩国剧",
+        "日本剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片"
+      ]
+     },
+    {
+      "key": "555",
+      "name": "🔱聚合一站",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/555.js"
+    },
+    {
+      "key": "爱看",
+      "name": "🔱聚合二站",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/ikanbot2.js"
+    },
+    {
+      "key": "哔哩直播",
+      "name": "🦄哔哩直播",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/哔哩直播.js"
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "🐟斗鱼直播",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/斗鱼直播.js"
+    },
+    {
+      "key": "虎牙直播",
+      "name": "🦷虎牙直播",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/虎牙直播.js"
+    },
+    {
+      "key": "JustLive",
+      "name": "🔰聚合直播",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/JustLive.js"
+    },
+    {
+      "key": "企鹅体育",
+      "name": "🏀企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://tv.wangqing.vip/zhanjs/企鹅体育.json?http://cdn.teyonds.com/xp/企鹅体育.json"
+    },
+    {
+      "key": "JR直播",
+      "name": "🏀进啊体育",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/JRKAN直播.js"
+    },
+    {
+      "key": "拳皇",
+      "name": "🥊拳皇赛事",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/拳皇.js"
+    },
+    {
+      "key": "直播转点播",
+      "name": "📺电视直播",
+      "type": 3,
+      "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js?http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js?https://jihulab.com/duomv/xduo/-/raw/main/libs/zbzdb.js?http://我不是.肥猫.love:63/JS/直播转点播2.js",
+      "ext": "https://wangqing.vip/mao/888/tv.txt"
+    },
+    {
+      "key": "push_agent",
+      "name": "视频广告全是骗人",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://wangqing.vip/mao/888/zhibo.txt?https://jsdelivr.b-cdn.net/gh/PizazzGY/TVBox_warehouse/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
