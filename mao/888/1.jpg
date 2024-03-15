@@ -233,12 +233,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/ikanbot2.js"
     },
 {
-      "key": "电影先生",
+      "key": "聚合三",
       "name": "🔮聚合三站",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/电影先生.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/KOK影院.js"
     },
     {
       "key": "哔哩直播",
