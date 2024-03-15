@@ -1,5 +1,5 @@
 [
-{"name":"硬饭","url":"https://xhdwc.tk/tvlive.txt&&&https://picsum.photos/200/298"},
+{"name":"魔改","url":"https://d.kstore.space/download/2883/20240210.txt&&&https://picsum.photos/200/298"},
 {"name":"肥猫","url":"http://我不是.肥猫.live/TV/tvzb.txt&&&https://picsum.photos/200/299"},
 {"name":"范明","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://picsum.photos/200/300"},
 {"name":"小米","url":"http://124.223.177.85:88/svip/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt&&&https://picsum.photos/200/301"},
@@ -8,7 +8,7 @@
 {"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://picsum.photos/200/304"},
 {"name":"欧歌","url":"http://106.54.39.252/公众号欧歌APP/tv/&&&https://picsum.photos/200/305"},
 {"name":"星辰","url":"http://8.210.232.168/xclive.txt&&&https://picsum.photos/200/306"},
-{"name":"魔改","url":"https://d.kstore.space/download/2883/20240210.txt&&&https://picsum.photos/200/307"},
+{"name":"硬饭","url":"https://xhdwc.tk/tvlive.txt&&&https://picsum.photos/200/307"},
 {"name":"喵影","url":"http://meowtv.cn/zb&&&https://picsum.photos/200/308"},
 {"name":"阿布","url":"https://agit.ai/l/ove/raw/branch/master/live.txt&&&https://picsum.photos/200/309"},
 {"name":"小胡","url":"http://xiaohu.xzam.cn/live.txt&&&https://picsum.photos/200/310"},
