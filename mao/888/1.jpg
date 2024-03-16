@@ -148,7 +148,7 @@
     },
     {
       "key": "meowtv_fqdj",
-      "name": "🍀番茄短剧",
+      "name": "👠番茄短剧",
       "type": 3,
       "api": "http://cdn.teyonds.com/js/drpy2.min.js",
       "searchable": 1,
@@ -158,7 +158,7 @@
     },
     {
       "key": "meowtv_rxdj",
-      "name": "🍀锐星短剧",
+      "name": "👠锐星短剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
