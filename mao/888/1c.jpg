@@ -1,4 +1,5 @@
 {
+  "spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://tool.teyonds.com/api?https://picsum.photos/1300/600?http://maoyingshi.cc/api.php",
   "sites": [
       {
@@ -862,38 +863,29 @@
         "喜剧片",
         "爱情片",
         "科幻片",
-        "恐怖片",
-        "剧情片"
-      ]
-    },
-    {
-      "key": "怡萱动漫(js)",
-      "name": "🎄怡萱动漫",
-      "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/怡萱动漫.js"
-    },
-    {
-      "key": "去看吧",
-      "name": "🎄看吧动漫",
+        "恐怖片"
+        ]
+     },
+     {
+      "key": "哔哩直播",
+      "name": "🦄哔哩直播",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/去看吧.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/哔哩直播.js"
     },
     {
-      "key": "路漫漫",
-      "name": "🎄路漫动漫",
+      "key": "斗鱼直播",
+      "name": "🐟斗鱼直播",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/路漫漫.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/斗鱼直播.js"
     },
     {
-      "key": "NT动漫",
-      "name": "🎄樱花动漫",
+      "key": "虎牙直播",
+      "name": "🦷虎牙直播",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/NT动漫.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/虎牙直播.js"
     },
     {
       "key": "JustLive",
@@ -901,6 +893,49 @@
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/JustLive.js"
+    },
+    {
+      "key": "企鹅体育",
+      "name": "🏀企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://tv.wangqing.vip/zhanjs/企鹅体育.json?http://cdn.teyonds.com/xp/企鹅体育.json"
+    },
+    {
+      "key": "赛事",
+      "name": "🏀赛事录像",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "篮球",
+        "足球",
+        "斯诺克",
+        "短剧"
+      ]
+    },
+    {
+      "key": "拳皇",
+      "name": "🥊拳皇赛事",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/拳皇.js"
+    },
+    {
+      "key": "cctv大全",
+      "name": "🌎央视大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/央视大全.json",
+      "jar": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"
     },
     {
       "key": "直播转点播",
