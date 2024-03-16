@@ -147,16 +147,6 @@
       ]
     },
     {
-      "key": "meowtv_fqdj",
-      "name": "👠番茄短剧",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
-    },
-    {
       "key": "meowtv_rxdj",
       "name": "👠锐星短剧",
       "type": 3,
@@ -960,10 +950,18 @@
     },
     {
       "key": "直播转点播",
-      "name": "📺电视直播",
+      "name": "📺聚合电视",
       "type": 3,
       "api": "https://agit.ai/alanchaotang/if/raw/branch/main/js/live2vod.js?http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js?https://jihulab.com/duomv/xduo/-/raw/main/libs/zbzdb.js?http://我不是.肥猫.love:63/JS/直播转点播2.js",
       "ext": "https://wangqing.vip/mao/888/tv.txt"
+    },
+    {
+      "key": "好趣",
+      "name": "📺好趣电视",
+      "type": 3,
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://tv.wangqing.vip/zhanjs/好趣网.js"
     },
     {
       "key": "push_agent",
