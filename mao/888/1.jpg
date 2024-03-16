@@ -147,6 +147,26 @@
       ]
     },
     {
+      "key": "meowtv_fqdj",
+      "name": "🍀番茄短剧",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
+    },
+    {
+      "key": "meowtv_rxdj",
+      "name": "🍀锐星短剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.84.103:6822/api.php/app/"
+    },
+    {
       "key": "爱坤",
       "name": "🐔爱坤资源",
       "type": 1,
