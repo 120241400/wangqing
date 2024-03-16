@@ -588,7 +588,7 @@
     },
     {
       "key": "十八",
-      "name": "📺U酷资源",
+      "name": "🧯U酷资源",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8",
       "searchable": 1,
@@ -795,7 +795,7 @@
     },
     {
       "key": "三十四",
-      "name": "🌴乐视资源",
+      "name": "👓乐视资源",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/",
       "searchable": 0,
