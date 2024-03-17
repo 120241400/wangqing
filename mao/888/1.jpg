@@ -45,10 +45,12 @@
     {
       "key": "xh",
       "name": "👑小胡超清",
-      "type": 1,
-      "playerType": 3,
-      "api": "http://cc.xzam.cn/api.php/provide/vod/",
-      "playUrl": ""
+      "type": 3,
+      "api": "csp_WebHH",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "喵次元",
