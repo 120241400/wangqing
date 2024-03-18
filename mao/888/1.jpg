@@ -43,14 +43,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/ddys.js"
     },
     {
-      "key": "xh",
-      "name": "👑小胡超清",
+      "key": "超前点播",
+      "name": "👑超前高清",
       "type": 3,
-      "api": "csp_WebHH",
-      "jar": "http://www.wya6.cn/tz/wyog.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/超前点播.js"
     },
     {
       "key": "喵次元",
