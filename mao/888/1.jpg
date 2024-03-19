@@ -42,13 +42,15 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/ddys.js"
     },
-    {
-      "key": "超前点播",
-      "name": "👑超前高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/超前点播.js"
+   {
+      "key": "七七",
+      "name": "👑七七高清",
+      "type": 0,
+      "api": "http://103.97.176.128:9527/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.777jiexi.com/player/??url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "喵次元",
