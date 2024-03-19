@@ -14,6 +14,6 @@
 {"name":"小胡","url":"http://xiaohu.xzam.cn/live.txt&&&https://picsum.photos/200/310"},
 {"name":"蓝玩","url":"https://tv.lan2wan.top/live.txt&&&https://picsum.photos/200/311"},
 {"name":"微喜","url":"https://weixine.net/tv/ysclive.txt&&&https://picsum.photos/200/312"},
-{"name":"吾爱","url":"http://52bsj.vip:98/wuailive&&&https://picsum.photos/200/313"},
+{"name":"月光","url":"https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt&&&https://picsum.photos/200/313"},
 {"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://picsum.photos/200/314"}
 ]
