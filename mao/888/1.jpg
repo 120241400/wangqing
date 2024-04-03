@@ -92,12 +92,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/南柯.js"
     },
     {
-      "key": "视觉影视",
-      "name": "👑视觉高清",
+      "key": "素白影视",
+      "name": "👑素白高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://tv.wangqing.vip/zhanjs/新视觉.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/素白白.js"
     },
     {
       "key": "星辰影视",
