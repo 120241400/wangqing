@@ -10,14 +10,6 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
     },
-      {
-      "key": "农民",
-      "name": "👑农民高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/农民影视.js"
-    },
     {
       "key": "厂长",
       "name": "👑厂长高清",
@@ -51,14 +43,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "喵次元",
-      "name": "👑喵漫高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/喵次元.js"
     },
     {
       "key": "尘落",
