@@ -39,7 +39,7 @@
       "name": "👑七七高清",
       "type": 0,
       "api": "http://103.97.176.128:9527/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.777jiexi.com/player/?url=",
+      "playUrl": "https://jx.xmflv.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
