@@ -883,7 +883,7 @@
       "key": "赛事",
       "name": "🏀赛事录像",
       "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
+      "api": "http://lzizy1.com/api.php/provide/vod/from/sdm3u8",
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
