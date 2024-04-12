@@ -18,6 +18,22 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/厂长资源.js"
     },
+{
+      "key": "胖虎",
+      "name": "👑胖虎高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/胖虎.js"
+    },
+    {
+      "key": "八号",
+      "name": "👑八号高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/8号影院.js"
+    },
     {
       "key": "六度",
       "name": "👑六度高清",
