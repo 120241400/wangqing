@@ -108,14 +108,6 @@
       "ext": "https://tv.wangqing.vip/zhanjs/星辰影视.js"
     },
     {
-      "key": "南瓜影视",
-      "name": "👑南瓜高清",
-      "type": 3,
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://tv.wangqing.vip/zhanjs/南瓜影视.js"
-    },
-    {
       "key": "白嫖影视",
       "name": "👑白嫖高清",
       "type": 3,
@@ -148,6 +140,18 @@
         "战争片"
       ]
     },
+    { "key": "柒月2",
+            "name": "🐛柒月二次截取",
+            "type": 3,
+
+            "api": "csp_XBPQ",
+            "ext":    { 
+    "起始页":"2", 
+    "数组二次截取": "排序&&footer-content",
+    "数组":"<a&&class=\"module-poster-item-info\">",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$22",
+    "分类url":"https://www.qiyue.me/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+}},
  { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
