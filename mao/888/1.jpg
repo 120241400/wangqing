@@ -9,18 +9,7 @@
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
-    },
- { "key": "vids",
-            "name": "🐛vids",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext":{  
-
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21",
-            "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
-
-            }
-        },                
+    },          
     {
       "key": "厂长",
       "name": "👑厂长高清",
@@ -159,6 +148,15 @@
         "战争片"
       ]
     },
+ { "key": "vids",
+            "name": "🎨聚合资源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":{  
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21",
+            "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
+            }
+        },                
     {
       "key": "meowtv_rxdj",
       "name": "👠锐星短剧",
