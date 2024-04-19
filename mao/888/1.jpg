@@ -153,6 +153,8 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext":{  
+"数组二次截取": "排序&&footer-content",
+    "数组":"<a&&class=\"module-poster-item-info\">",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21",
             "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
             }
