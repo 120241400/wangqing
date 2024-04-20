@@ -2,14 +2,19 @@
 "spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
-    {
-      "key": "555",
-      "name": "🔱聚合一站",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/555.js"
-    },
+     { "key": "vids",
+            "name": "🔱聚合一站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":{  
+"数组二次截取": "排序&&footer-content",
+    "数组":"<a&&class=\"module-poster-item-info\">",
+
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21",
+            "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
+
+            }
+        },                
         {
       "key": "爱看",
       "name": "🔱聚合二站",
