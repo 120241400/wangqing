@@ -141,7 +141,7 @@
       ]
     },
     { "key": "柒月2",
-            "name": "🐛柒月二次截取",
+            "name": "🎲柒月影视",
             "type": 3,
 
             "api": "csp_XBPQ",
@@ -176,6 +176,15 @@
       "filterable": 1,
       "ext": "http://122.228.84.103:6822/api.php/app/"
     },
+   {
+            "key": "Wexduanjuvop",
+            "name": "👠秒播短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar":"https://cloud.lxweb.cn/f/apVxt6/fn.jar;md5;18eedce2077dc99c909607aa71ff50ac",
+            "searchable": 1,
+            "changeable": 1
+        },
     {
       "key": "爱坤",
       "name": "🐔爱坤资源",
