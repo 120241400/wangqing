@@ -140,19 +140,7 @@
         "战争片"
       ]
     },
-    { "key": "柒月2",
-            "name": "🎲柒月影视",
-            "type": 3,
-
-            "api": "csp_XBPQ",
-            "ext":    { 
-    "起始页":"2", 
-    "数组二次截取": "排序&&footer-content",
-    "数组":"<a&&class=\"module-poster-item-info\">",
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$22",
-    "分类url":"https://www.qiyue.me/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-}},
- { "key": "vids",
+    { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
 
