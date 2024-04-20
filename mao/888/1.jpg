@@ -918,7 +918,7 @@
       "name": "🏀体育录像",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-      "playUrl": "https://p1.jx.m3u8.biz/player/ec.php?code=mf&if=1&url=",
+      "playUrl": "",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
