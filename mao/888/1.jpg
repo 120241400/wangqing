@@ -143,7 +143,7 @@
     { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
-            "jar": "https://pixeldrain.com/api/file/V12ETsQ3?download",
+            "jar": "http://152.32.170.60/leevi/PiG/raw/branch/master/lib/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext":{  
 "数组二次截取": "排序&&footer-content",
