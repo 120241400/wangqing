@@ -2,19 +2,31 @@
 "spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
-     { "key": "vids",
-            "name": "🔱聚合一站",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext":{  
-"数组二次截取": "排序&&footer-content",
-    "数组":"<a&&class=\"module-poster-item-info\">",
-
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$21",
-            "分类url":"https://ys.vidz.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
-
-            }
-        },                
+         {
+      "key": "牛牛",
+      "name": "🔱聚合一站",
+      "type": 1,
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "playUrl": "https://jx.jsonplayer.com/player/?url=",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "综艺",
+        "动漫",
+        "体育",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },         
         {
       "key": "爱看",
       "name": "🔱聚合二站",
