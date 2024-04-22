@@ -1,5 +1,5 @@
 {
-  "spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://tv.wangq8ing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "https://picsum.photos/1300/600?grayscale",
   "sites": [
       {
@@ -904,6 +904,7 @@
       "key": "企鹅体育",
       "name": "🏀企鹅体育",
       "type": 3,
+      "jar": "https://file.uhsea.com/2404/b57865d7d36048f34ac9e0b556efae063L.jar",
       "api": "csp_XPath",
       "searchable": 0,
       "quickSearch": 0,
