@@ -1,5 +1,5 @@
 {
-  "spider": "https://tv.wangq8ing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-23/2024-04-23_01:29:21/1713806961847/69695830/wex.txt;md5;42ce8c5f91a8b8b2f8f48e3c52e3927b",
   "wallpaper": "https://picsum.photos/1300/600?grayscale",
   "sites": [
       {
@@ -143,7 +143,7 @@
     { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
-            "jar": "https://file.uhsea.com/2404/b57865d7d36048f34ac9e0b556efae063L.jar",
+            
             "api": "csp_XBPQ",
             "ext":{  
 "数组二次截取": "排序&&footer-content",
@@ -904,7 +904,6 @@
       "key": "企鹅体育",
       "name": "🏀企鹅体育",
       "type": 3,
-      "jar": "https://file.uhsea.com/2404/b57865d7d36048f34ac9e0b556efae063L.jar",
       "api": "csp_XPath",
       "searchable": 0,
       "quickSearch": 0,
