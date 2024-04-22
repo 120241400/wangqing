@@ -143,7 +143,7 @@
     { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
-
+            "jar": "https://file.uhsea.com/2404/b57865d7d36048f34ac9e0b556efae063L.jar",
             "api": "csp_XBPQ",
             "ext":{  
 "数组二次截取": "排序&&footer-content",
