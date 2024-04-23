@@ -143,7 +143,7 @@
     { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
-            
+            "jar": "https://leafy-salmiakki-8e302a.netlify.app/sese/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext":{  
 "数组二次截取": "排序&&footer-content",
