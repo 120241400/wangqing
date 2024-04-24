@@ -1,5 +1,5 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-23/2024-04-23_01:29:21/1713806961847/69695830/wex.txt;md5;42ce8c5f91a8b8b2f8f48e3c52e3927b",
+  "spider": "https://tv.wangqing.vip/jar/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "https://picsum.photos/1300/600?grayscale",
   "sites": [
       {
@@ -16,7 +16,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/菠菜去广.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/厂长.js"
     },
 {
       "key": "胖虎",
@@ -143,7 +143,7 @@
     { "key": "vids",
             "name": "🎲聚合影视",
             "type": 3,
-            "jar": "https://leafy-salmiakki-8e302a.netlify.app/sese/XBPQS.jar",
+            
             "api": "csp_XBPQ",
             "ext":{  
 "数组二次截取": "排序&&footer-content",
