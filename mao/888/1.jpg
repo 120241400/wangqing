@@ -11,12 +11,12 @@
       "ext": "https://tv.wangqing.vip/zhanjs/骚火.js"
     },          
     {
-      "key": "厂长",
-      "name": "👑厂长高清",
+      "key": "时光",
+      "name": "👑时光高清",
       "type": 3,
       "playerType": "2",
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/厂长.js"
+      "ext": "https://tv.wangqing.vip/zhanjs/时光影视.js"
     },
 {
       "key": "胖虎",
