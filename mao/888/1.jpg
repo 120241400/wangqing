@@ -86,10 +86,10 @@
     },
     {
       "key": "TVB",
-      "name": "👑TVB高清",
+      "name": "👑人人高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/TV%E4%BA%91%E6%92%AD.js"
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "素白影视",
