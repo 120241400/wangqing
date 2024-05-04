@@ -85,11 +85,11 @@
       "ext": "https://tv.wangqing.vip/zhanjs/子子影视.js"
     },
     {
-      "key": "南柯",
-      "name": "👑南柯高清",
+      "key": "TVB",
+      "name": "👑TVB高清",
       "type": 3,
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
-      "ext": "https://tv.wangqing.vip/zhanjs/南柯.js"
+      "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/TV%E4%BA%91%E6%92%AD.js"
     },
     {
       "key": "素白影视",
