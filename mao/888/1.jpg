@@ -18,7 +18,15 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/时光影视.js"
     },
-{
+    {
+      "key": "哎哟",
+      "name": "👑哎哟高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/哎哟.js"
+    },
+    {
       "key": "胖虎",
       "name": "👑胖虎高清",
       "type": 3,
