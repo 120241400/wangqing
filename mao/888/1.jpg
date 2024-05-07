@@ -34,6 +34,14 @@
       "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
       "ext": "https://tv.wangqing.vip/zhanjs/8号影院.js"
     },
+   {
+      "key": "立播",
+      "name": "👑立播高清",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.wangqing.vip/xiutan/drpy2.min.js",
+      "ext": "https://tv.wangqing.vip/zhanjs/立播.js"
+    },
     {
       "key": "六度",
       "name": "👑六度高清",
