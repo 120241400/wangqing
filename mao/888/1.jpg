@@ -85,14 +85,6 @@
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/两个BT.js"
     },
     {
-      "key": "子子影视",
-      "name": "👑子子高清",
-      "type": 3,
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/子子影视.js"
-    },
-    {
       "key": "TVB",
       "name": "👑人人高清",
       "type": 3,
@@ -114,14 +106,6 @@
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "searchable": 1,
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/星辰影视.js"
-    },
-    {
-      "key": "白嫖影视",
-      "name": "👑白嫖高清",
-      "type": 3,
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/白嫖影视.js"
     },
    {
       "key": "牛牛",
