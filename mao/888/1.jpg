@@ -808,7 +808,7 @@
       "key": "三十四",
       "name": "👒乐视资源",
       "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/",
+      "api": "https://leshiapi.com/api.php/provide/vod/",
       "searchable": 0,
       "filterable": 0,
       "changeable": 1,
