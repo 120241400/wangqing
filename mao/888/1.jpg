@@ -34,14 +34,6 @@
       "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
       "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/8号影院.js"
     },
-   {
-      "key": "立播",
-      "name": "👑立播高清",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://fastidious-kitsune-9ab51c.netlify.app/xiutan/drpy2.min.js",
-      "ext": "https://fastidious-kitsune-9ab51c.netlify.app/zhanjs/立播.js"
-    },
     {
       "key": "六度",
       "name": "👑六度高清",
@@ -669,9 +661,9 @@
     },
     {
       "key": "二十一",
-      "name": "⛅快云资源",
+      "name": "🦆丫丫资源",
       "type": 1,
-      "api": "https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyun/",
+      "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
