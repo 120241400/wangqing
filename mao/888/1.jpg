@@ -185,7 +185,7 @@
       "key": "零",
       "name": "📡量子资源",
       "type": 1,
-      "api": "http://www.lzizy1.com/api.php/provide/vod/from/lzm3u8",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8",
       "playUrl": "json:http://113.31.111.169:81/tfqgg.php?url=",
       "searchable": 1,
       "filterable": 0,
