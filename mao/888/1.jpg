@@ -186,7 +186,7 @@
       "name": "📡量子资源",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8",
-      "playUrl": "https://m3u8.co/play/?url=",
+      "playUrl": "https://ys.vidz.asia/addons/RdfPlayer/player/?url=",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
