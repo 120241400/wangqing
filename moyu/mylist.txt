@@ -10,7 +10,7 @@
 ;//登陆器快速进游戏（进游戏后不选区）时，输入帐号密码处的游戏背景.
 
 登陆器更新地址 = 
-补丁下载地址 = http://wangqingvip.netlify.app/buding.zip
+补丁下载地址 = http://wangqingvip.netlify.app/moyu/buding.zip
 ;//补丁文件为ZIP格式，也可以用生成器进行加密.
 补丁下载线程 = 15
 
